@@ -34,5 +34,5 @@
 <img src="https://i.ibb.co/NWpvvC5/Screenshot-182.png" alt="Screenshot-182">
 <h2 style="font-size: 36px; font-weight: 600; color: #000;">Installation</h2>
 <ul style="font-size: 18px; font-weight: 500; color: #070f18;">
-  <li>Clone the repository: git clone https://github.com/soniareactdeveloper/multiplication-table.git</li>
+  <li>[Clone the repository: git clone (https://github.com/md-jahid-islam/Multiplication-Namota.git)</li>
 </ul>
